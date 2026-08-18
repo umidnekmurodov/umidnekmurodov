@@ -4,6 +4,8 @@ I'm a **Frontend Developer** from Uzbekistan, currently studying at **PDP Univer
 
 My main focus is **React** and **TypeScript**, and I'm continuously expanding into full-stack development with **Node.js**.
 
+🌐 **[View my Portfolio →](https://portfolio-sooty-nine-k07jj9zwic.vercel.app/)**
+
 ---
 
 ## 🔧 Tech Stack
@@ -29,6 +31,7 @@ My main focus is **React** and **TypeScript**, and I'm continuously expanding in
 ---
 
 ## 🧠 Currently Learning
+
 - ⚡ Deepening my **Next.js** knowledge (SSR, routing, API routes)
 - 🔐 Authentication patterns (JWT, OAuth)
 - 🏗️ Clean architecture for full-stack apps
@@ -39,12 +42,14 @@ My main focus is **React** and **TypeScript**, and I'm continuously expanding in
 
 ### 💍 To'yxona — Online Booking System
 A full-stack booking platform for wedding venues, allowing users to browse, book, and track reservation status.
+
 - **Frontend:** React, TypeScript
 - **Backend:** Node.js, Express, PostgreSQL
 - **Features:** JWT & OTP authentication, venue catalog, booking management
 
 ### 🛍️ Nexora — Online Clothing Store
 A full-stack e-commerce platform with a customer storefront and complete admin dashboard.
+
 - **Frontend:** React, TypeScript
 - **Backend:** Node.js, Express, PostgreSQL
 - **Features:** JWT auth, product catalog with filters, shopping cart, admin CRUD panel
@@ -54,7 +59,10 @@ A full-stack e-commerce platform with a customer storefront and complete admin d
 ---
 
 ## 📫 Let's Connect
+
+- 🌐 Portfolio: [My Portfolio](https://portfolio-sooty-nine-k07jj9zwic.vercel.app/)
 - 📧 Email: umidnekmurodov1@gmail.com
+- 💬 Telegram: [@umid_nekmurodov](https://t.me/umid_nekmurodov)
 - 💻 Open to frontend developer opportunities
 
 ---
